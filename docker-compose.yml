@@ -1,7 +1,7 @@
 version: "3.3"
 services:
   web:
-    image: siddhantbhattarai/todo-list-app:latest
+    image: shweta1097/todo-list-app:latest
     ports:
       - "8000:8000"
 
